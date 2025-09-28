@@ -24,6 +24,17 @@ Manual analysis for identifying trends, growth drivers, and risks is challenging
 - Shipping and delivery lead time performance
 - Products/categories with negative profit
 
+- ## Skills Used
+
+- SQL Joins (INNER, LEFT, etc.)
+- Aggregations (SUM, AVG, COUNT)
+- GROUP BY and HAVING clauses
+- Window Functions (ROW_NUMBER, RANK, PARTITION BY, etc.)
+- Date/Time Functions (extracting Year, Month, Quarter; handling date differences)
+- CASE Statements (for conditional bucketing)
+- Subqueries and Common Table Expressions (CTEs)
+- User-defined Functions or Stored Procedures (for scaling or repetitive tasks)
+
 ## Key Insights
 - *Total Sales, Profit, Quantity Over Time*  
   Some regions consistently grow sales/profit, but high sales do not always mean high profit. Profit margin must be tracked alongside sales.
